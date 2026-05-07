@@ -13,16 +13,16 @@ Responsive User Interface
 ## Cloud Deployment with 
  Railway & Vercel
 Tech Stack
-Frontend
-React.js
-Tailwind CSS
-Axios
-React Router DOM
+         / Frontend  /
+                       React.js   /
+                                    Tailwind CSS   /
+                                                       Axios   /
+                                                                   React Router DOM   / /
 Backend
-Node.js
-Express.js
-JWT Authentication
-bcrypt.js
+        Node.js  /
+                   Express.js  /
+                                  JWT Authentication  /
+                                                        bcrypt.js  //
 Database
 MongoDB Atlas
 Deployment
@@ -54,15 +54,13 @@ https://github.com/shashank20250/TASKFLOW--web-app-of-role-based-access-/blob/89
 
 # Projects Page
 
-
+https://github.com/shashank20250/TASKFLOW--web-app-of-role-based-access-/blob/517241727211431794add79e22c01ee52d85bbbe/screenshots/3.png
 
 # Task Management
-
 https://github.com/shashank20250/TASKFLOW--web-app-of-role-based-access-/blob/32fcde7e2b42646df5e8d15faa6b269b5ab26b2d/screenshots/2nd.png
-
 # Live URL
 https://your-live-app-url.vercel.app
 # GitHub Repository
 https://github.com/your-username/taskflow
 # Author
-## Yash Talla
+### Yash Talla
