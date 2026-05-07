@@ -46,7 +46,7 @@ npm run dev
 Screenshots
 # Login Page
 
-(Add Screenshot Here)
+
 
 # Dashboard
 
@@ -58,7 +58,7 @@ Screenshots
 
 # Task Management
 
-(Add Screenshot Here)
+https://chatgpt.com/backend-api/estuary/content?id=file_00000000bad072068b6b08cad3f74408&ts=493931&p=fs&cid=1&sig=9068b0dd954a9a7d66a38074f0dc5c9538d633511d7d225dd81d08d20bfc3dec&v=0
 
 # Live URL
 https://your-live-app-url.vercel.app
