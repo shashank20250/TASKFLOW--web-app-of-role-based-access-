@@ -1,0 +1,11 @@
+client/src/
+│
+├── pages/
+│ ├── Login.jsx
+│ ├── Signup.jsx
+│ ├── Dashboard.jsx
+│ ├── Projects.jsx
+│ └── Tasks.jsx
+│
+├── App.jsx
+└── main.jsx
