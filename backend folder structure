@@ -1,0 +1,18 @@
+server/
+│
+├── models/
+│   ├── User.js
+│   ├── Project.js
+│   └── Task.js
+│
+├── routes/
+│   ├── authRoutes.js
+│   ├── projectRoutes.js
+│   └── taskRoutes.js
+│
+├── middleware/
+│   └── authMiddleware.js
+│
+├── .env
+├── package.json
+└── server.js
