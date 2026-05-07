@@ -1,0 +1,26 @@
+function Dashboard() {
+return (
+<div className="p-6 bg-gray-100 min-h-screen">
+<h1 className="text-3xl font-bold mb-6">Dashboard</h1>
+<div className="grid grid-cols-4 gap-4">
+<div className="bg-white p-6 rounded shadow">
+<h2 className="text-xl font-bold">Total Tasks</h2>
+<p className="text-3xl">20</p>
+</div>
+<div className="bg-white p-6 rounded shadow">
+<h2 className="text-xl font-bold">Completed</h2>
+<p className="text-3xl">10</p>
+</div>
+<div className="bg-white p-6 rounded shadow">
+<h2 className="text-xl font-bold">Pending</h2>
+<p className="text-3xl">5</p>
+</div>
+<div className="bg-white p-6 rounded shadow">
+<h2 className="text-xl font-bold">Overdue</h2>
+<p className="text-3xl">5</p>
+</div>
+</div>
+</div>
+);
+}
+export default Dashboard;
